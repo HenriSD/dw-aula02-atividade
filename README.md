@@ -1,2 +1,2 @@
 # dw-aula02-atividade
-Atividade
+como rodar (node atividade-aula02.js)
